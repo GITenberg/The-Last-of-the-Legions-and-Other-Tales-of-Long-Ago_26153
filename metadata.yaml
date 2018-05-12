@@ -1,0 +1,37 @@
+_repo: The-Last-of-the-Legions-and-Other-Tales-of-Long-Ago_26153
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    - Conan Doyle, Arthur, Sir
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_issued: '2008-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Historical fiction, English'
+- !lcsh 'Short stories, English'
+- !lcsh 'Adventure stories, English'
+tableOfContents: The last of the legions -- The last galley -- Through the veil --
+  The coming of the Huns -- The contest -- The first cargo -- An iconoclast -- Giant
+  Maximin -- The red star -- The silver mirror -- The homecoming -- A point of contact
+  -- The centurion.
+title: The Last of the Legions and Other Tales of Long Ago
+url: http://www.gutenberg.org/ebooks/26153
